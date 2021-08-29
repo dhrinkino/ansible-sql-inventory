@@ -23,7 +23,7 @@ python3 generate.py
 python3 generate.py > inventory_file
 ```
 
-# Graphical scheme of inventory
+# Example graphical scheme of inventory
 ![scheme](https://i.imgur.com/kLXyYC7.jpg)
 
 ## Feel free to fork or create pull request :)
